@@ -7,7 +7,7 @@ const About = () => {
   return (
     <Result
       status="info"
-      title={'IDURAR'}
+      title={'PAAR Technologies'}
       subTitle={translate('')}
       extra={
         <>
